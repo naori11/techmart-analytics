@@ -1,4 +1,4 @@
-# TechMart E-commerce Business Intelligence Project
+# TechMart E-commerce Business Analytics Project
 
 <div align="center">
 
